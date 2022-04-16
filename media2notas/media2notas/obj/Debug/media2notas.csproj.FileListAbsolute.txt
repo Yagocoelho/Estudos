@@ -1,0 +1,6 @@
+F:\Atividade Jota\media2notas\media2notas\bin\Debug\media2notas.exe.config
+F:\Atividade Jota\media2notas\media2notas\obj\Debug\media2notas.csprojResolveAssemblyReference.cache
+F:\Atividade Jota\media2notas\media2notas\bin\Debug\media2notas.exe
+F:\Atividade Jota\media2notas\media2notas\bin\Debug\media2notas.pdb
+F:\Atividade Jota\media2notas\media2notas\obj\Debug\media2notas.exe
+F:\Atividade Jota\media2notas\media2notas\obj\Debug\media2notas.pdb
