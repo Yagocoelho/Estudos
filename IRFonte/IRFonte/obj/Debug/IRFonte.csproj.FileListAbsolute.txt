@@ -1,0 +1,24 @@
+F:\Atividade Jota\IRFonte\IRFonte\bin\Debug\IRFonte.exe.config
+D:\Atividade Jota\IRFonte\IRFonte\bin\Debug\IRFonte.exe.config
+D:\Atividade Jota\IRFonte\IRFonte\obj\Debug\IRFonte.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\IRFonte\IRFonte\bin\Debug\IRFonte.exe.config
+C:\Users\Admin\Desktop\IRFonte\IRFonte\obj\Debug\IRFonte.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\IRFonte\IRFonte\bin\Debug\IRFonte.exe
+C:\Users\Admin\Desktop\IRFonte\IRFonte\bin\Debug\IRFonte.pdb
+C:\Users\Admin\Desktop\IRFonte\IRFonte\obj\Debug\IRFonte.exe
+C:\Users\Admin\Desktop\IRFonte\IRFonte\obj\Debug\IRFonte.pdb
+K:\Atividades Prof Jota\IRFonte\IRFonte\bin\Debug\IRFonte.exe.config
+K:\Atividades Prof Jota\IRFonte\IRFonte\obj\Debug\IRFonte.exe
+K:\Atividades Prof Jota\IRFonte\IRFonte\obj\Debug\IRFonte.pdb
+K:\Atividades Prof Jota\IRFonte\IRFonte\bin\Debug\IRFonte.exe
+K:\Atividades Prof Jota\IRFonte\IRFonte\bin\Debug\IRFonte.pdb
+K:\Atividades Prof Jota\IRFonte\IRFonte\obj\Debug\IRFonte.csprojResolveAssemblyReference.cache
+F:\Atividades Prof Jota\IRFonte\IRFonte\bin\Debug\IRFonte.exe.config
+F:\Atividades Prof Jota\IRFonte\IRFonte\obj\Debug\IRFonte.exe
+F:\Atividades Prof Jota\IRFonte\IRFonte\obj\Debug\IRFonte.pdb
+K:\IRFonte\IRFonte\bin\Debug\IRFonte.exe.config
+K:\IRFonte\IRFonte\obj\Debug\IRFonte.exe
+K:\IRFonte\IRFonte\obj\Debug\IRFonte.pdb
+K:\IRFonte\IRFonte\bin\Debug\IRFonte.exe
+K:\IRFonte\IRFonte\bin\Debug\IRFonte.pdb
+K:\IRFonte\IRFonte\obj\Debug\IRFonte.csprojResolveAssemblyReference.cache
