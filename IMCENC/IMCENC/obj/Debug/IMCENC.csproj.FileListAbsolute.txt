@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\IMCENC\IMCENC\bin\Debug\IMCENC.exe.config
+C:\Users\Admin\Desktop\IMCENC\IMCENC\bin\Debug\IMCENC.exe
+C:\Users\Admin\Desktop\IMCENC\IMCENC\bin\Debug\IMCENC.pdb
+C:\Users\Admin\Desktop\IMCENC\IMCENC\obj\Debug\IMCENC.exe
+C:\Users\Admin\Desktop\IMCENC\IMCENC\obj\Debug\IMCENC.pdb
+C:\Users\Admin\Desktop\IMCENC\IMCENC\obj\Debug\IMCENC.csprojResolveAssemblyReference.cache
+D:\Atividade Jota\IMCENC\IMCENC\bin\Debug\IMCENC.exe.config
+D:\Atividade Jota\IMCENC\IMCENC\obj\Debug\IMCENC.exe
+F:\Atividade Jota\IMCENC\IMCENC\bin\Debug\IMCENC.exe.config
+F:\Atividade Jota\IMCENC\IMCENC\obj\Debug\IMCENC.exe
+F:\Atividade Jota\IMCENC\IMCENC\obj\Debug\IMCENC.csprojResolveAssemblyReference.cache
+K:\IMCENC\IMCENC\bin\Debug\IMCENC.exe.config
+K:\IMCENC\IMCENC\obj\Debug\IMCENC.exe
